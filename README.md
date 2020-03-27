@@ -2,6 +2,8 @@
 Aplicação para avaliar as condições físicas do usuário, desenvolvida com JavaScript puro.
 Estes são os arquivos iniciais do projeto **getkcal** disponível no YouTube.
 
+http://www.brdanutricao.com.br/calculadora-taxa-metabolica-basal/
+
 ## Instalação
 
 Este projeto não precisa de nenhuma depedência para funcionar, porém durante a aula iremos utilizar o pacote `serve` para roda-lo no browser através de um servidor node.
