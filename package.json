@@ -1,0 +1,23 @@
+{
+  "name": "getkcal-js",
+  "version": "1.0.0",
+  "description": "Aplicação para avaliar as condições físicas do usuário, desenvolvida com JavaScript puro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamroger/getkcal-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamroger/getkcal-js/issues"
+  },
+  "homepage": "https://github.com/williamroger/getkcal-js#readme",
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
