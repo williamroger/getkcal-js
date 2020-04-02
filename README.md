@@ -1,8 +1,12 @@
 # getkcal-js
-Aplicação para avaliar as condições físicas do usuário, desenvolvida com JavaScript puro.
-Estes são os arquivos iniciais do projeto **getkcal** disponível no YouTube.
+Aplicação que realiza o cálculo da [Taxa Metabolica Basal](http://www.brdanutricao.com.br/calculadora-taxa-metabolica-basal/ ).
+Desenvolvida utilizando apenas HTML, CSS e JavaScript puro, seguindo as orientações do [Mateus Silva](https://github.com/maateusilva) neste vídeo: 
+[https://www.youtube.com/watch?v=yiDq9wUiUjc](https://www.youtube.com/watch?v=yiDq9wUiUjc) 
 
-http://www.brdanutricao.com.br/calculadora-taxa-metabolica-basal/
+Este é o visual da aplicação:
+![](./assets/images/getkcal.png)
+
+Estes são os arquivos iniciais do projeto **getkcal** disponível no YouTube.
 
 ## Instalação
 
